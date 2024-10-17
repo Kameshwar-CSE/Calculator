@@ -15,3 +15,5 @@ Real-Time Calculations: Displays results instantly as you click the calculator b
 HTML: Provides the structure and layout for the calculator.
 CSS: Adds styling to the calculator for a clean, modern look.
 JavaScript: Implements the functionality and logic for the calculator operations.
+
+# codsoft
